@@ -1,0 +1,50 @@
+
+.button{
+    text-align: center;
+    display:  inline-block;
+    border-radius: 3px;
+    padding: 0rem 0;
+    margin: 0.5rem 1rem;
+    width: 12rem;
+    background: transparent;
+    color: white;
+    border: 2px solid white;
+    font-size: 170%;
+}
+.gov{
+    position:absolute;
+    color :white;
+    padding :0.5%;
+}
+.navbar{
+    position: relative;
+    padding-top: 2%;
+    border-bottom: 4px solid white;
+
+}
+.formgov {
+    border: 2px solid white;
+}
+.formid {
+    padding:2%;
+    border: 2px solid white;
+    position: relative;
+    color: white;
+    text-align:left;
+    margin-top:2%;
+    border-radius: 5px;
+}
+.form2{
+    padding:2%;
+}
+.cot {
+    padding:2%;
+    border: 2px solid white;
+    position: relative;
+    color: white;
+    text-align:left;
+    margin-top:2%;
+    border-radius: 5px;
+    background-color:white;
+    color:black;
+}
